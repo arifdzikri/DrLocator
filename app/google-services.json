@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "698741862705",
+    "project_id": "drlocator-123a7",
+    "storage_bucket": "drlocator-123a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698741862705:android:22124392830d19eedf0010",
+        "android_client_info": {
+          "package_name": "com.example.drlocator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698741862705-bes6roll0pitrp5r0aipk8nnbva8hvti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9uuCdB0E9CPpe0WMouyTMTR8BQxK5rqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698741862705-bes6roll0pitrp5r0aipk8nnbva8hvti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
